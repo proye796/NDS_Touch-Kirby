@@ -1,4 +1,4 @@
-# タッチ！カービィ NDS 한국어 패치 v1.0.2
+# タッチ！カービィ NDS 한국어 패치 v1.0.3
 
 배포일: 2026-10-17
 대상: Touch! Kirby 일본판
@@ -15,11 +15,11 @@
 
 | 파일 | 크기(바이트) | SHA-256 |
 |---|---|---|
-| Touch-Kirby-KO-v1.0.2.nds | 67,108,864 | 74464021af9b756f8c045d11bc99f8bda3c943f14344587775071b8a8b467b63 |
+| Touch-Kirby-KO-v1.0.3.nds | 67,108,864 | 35095476bef6b4e7e5561e6d16d1650903ac75e87a0836eb2fcb3b26a1d6714e |
 
 ## 배포 파일
 
 | 파일 | 크기(바이트) | SHA-256 |
 |---|---|---|
-| Touch-Kirby-KO-v1.0.2.zip | 734,303 | 08a8917291279f6d37db9ef6273dfabeec0375bdbede6074dbe002e2774245d3 |
-| Touch-Kirby-KO-v1.0.2.bps | 887,226 | e8c37ea6479094375b6948532a0a8b702982ec747c32fe1a19dc557261edc46a |
+| Touch-Kirby-KO-v1.0.3.zip | 734,746 | f0503c02e76d95211894e02f87a7ca4a13f69e53992787e02caf933da210468a |
+| Touch-Kirby-KO-v1.0.3.bps | 888,331 | b82886cdd4b5f0d90f8f2cd3d354d6a226fce879e5705a5c7c2d5822653e90fd |
