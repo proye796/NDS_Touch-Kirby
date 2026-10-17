@@ -1,7 +1,7 @@
-# タッチ！カービィ NDS 한국어 패치 v1.0
+# タッチ！カービィ NDS 한국어 패치 v1.0.1
 
-배포일: 2026-10-16
-대상: Touch! Kirby 일본판
+배포일: 2026-10-17
+대상: Touch! Kirby 일본팥
 
 배포 ZIP에는 원본 ROM이나 패치 완료 ROM이 포함되지 않습니다. 정품에서 추출한 아래 해시와 일치하는 일본판 NDS ROM이 필요합니다.
 
@@ -15,11 +15,11 @@
 
 | 파일 | 크기(바이트) | SHA-256 |
 |---|---|---|
-| Touch-Kirby-KO-v1.0.nds | 67,108,864 | 956a4404fb562585094520242a2c25c72755079c263ae73a8047d962dcadad74 |
+| Touch-Kirby-KO-v1.0.1.nds | 67,108,864 | b753c60ec32a7803fb3ec2ce70214710398ac5b6e43ae9ccc29ad163f59eb4f6 |
 
 ## 배포 파일
 
 | 파일 | 크기(바이트) | SHA-256 |
 |---|---|---|
-| Touch-Kirby-KO-v1.0.zip | 732,814 | 4482f049195e0398a2e5187868fecfff6f3e897338e90bed1eb3a051a32edfdb |
-| Touch-Kirby-KO-v1.0.bps | 885,259 | 57540eee45e7aa40e42bdc9fd6895f0b2484ac0414444f1b8239ce00f66d09ac |
+| Touch-Kirby-KO-v1.0.1.zip | 733,025 | c7c2030534a4eb3a0b47b438964817f14e092c9a7a3c8a228910d92a7c622649 |
+| Touch-Kirby-KO-v1.0.1.bps | 885,286 | b4e80ce62f55ddebe2280a8e5ce752858698983a806627874130c7e2b2b28269 |
